@@ -1,0 +1,2 @@
+La differenza sostanziale è la s che sta a significare secure
+Per mettere http inizialmente ho modificato inetsim bloccando(#start https -start http), mentre per farlo https ho fatto l'azione inversa(#start http- start https)
